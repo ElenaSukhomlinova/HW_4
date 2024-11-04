@@ -87,7 +87,7 @@ public class Main {
         } else if (two > three && two > one) {
             System.out.println("Второе число - самое большое");
         } else {
-            System.out.println("Первое число - самое большое");
+            System.out.println("Первое число - самое большое ");
         }
     }
 }
